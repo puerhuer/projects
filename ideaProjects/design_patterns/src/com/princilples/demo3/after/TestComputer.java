@@ -2,7 +2,7 @@ package com.princilples.demo3.after;
 
 /**
  * @Classname : TestComputer
- * @Description : TODO
+ * @Description : 测试依赖倒置原则
  * @Created by kingdee
  * @Date : 2021/5/7
  */
