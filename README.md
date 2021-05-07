@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-# projects
-=======
-# projects
-# 项目
->>>>>>> 9d821044c3a4ae9570e4a8460351388cf6be9164
+#### ideaProject
+- Examination_System-master(学生选课管理系统)
+- design_patterns(设计模式演示代码)
+
+
+
+
+![README.md](https://yijiebuyi.com/file/5a677ad6ed0e752df033715dd09dfbaf)
