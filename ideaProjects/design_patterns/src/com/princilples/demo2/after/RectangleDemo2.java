@@ -2,7 +2,7 @@ package com.princilples.demo2.after;
 
 /**
  * @Classname : RectangleDemo2
- * @Description : 测试
+ * @Description : 测试里氏替换原则
  * @Created by kingdee
  * @Date : 2021/5/6
  */
