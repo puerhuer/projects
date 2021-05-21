@@ -1,11 +1,10 @@
 package com.test;
 
 import java.io.*;
-import java.util.Scanner;
 
 /**
  * @Classname : Test1
- * @Description : TODO
+ * @Description : 测试读文件
  * @Created by kingdee
  * @Date : 2021/5/11
  */
