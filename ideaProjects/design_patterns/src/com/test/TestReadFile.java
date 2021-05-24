@@ -1,11 +1,10 @@
 package com.test;
 
 import java.io.*;
-import java.util.Scanner;
 
 /**
  * @Classname : Test1
- * @Description : TODO
+ * @Description : 测试读文件
  * @Created by kingdee
  * @Date : 2021/5/11
  */
@@ -14,6 +13,7 @@ public class TestReadFile {
         FileInputStream fis = null;
         InputStreamReader isr = null;
         BufferedReader br = null; //用于包装InputStreamReader,提高处理性能。因为BufferedReader有缓冲的，而InputStreamReader没有。
+        //测试远程fetch...
         try {
             String str = "";
             String str1 = "";
