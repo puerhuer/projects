@@ -19,4 +19,11 @@ public class Singleton implements Serializable {
     public static Singleton getInstance() {
         return SingletonHolder.INSTANCE;
     }
+
+    /**
+     * 下面是为了解决序列化反序列化破解单例模式
+     */
+    private Object readResolve() {
+        return SingletonHolder.INSTANCE;
+    }
 }
